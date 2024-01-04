@@ -10,3 +10,6 @@ On the homepage, press the "Get Started" button.  Write a note title and a note 
 ![Homepage](./assets/images/note-taker_screenshot1.png)
 ![New Note](./assets/images/note-taker_screenshot2.png)
 ![Saved Note](./assets/images/note-taker_screenshot3.png)
+
+## Work Cited
+This applications helper functions are adapted from previous activities in the Uconn Coding Bootcamp syllabus.
